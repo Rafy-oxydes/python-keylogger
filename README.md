@@ -1,5 +1,6 @@
 # superlemon's KeyLogger
-![GitHub language count](https://img.shields.io/github/languages/count/justsuperlemon/python-keylogger)This script is only for education purpose, do not use it for illegal things.
+![GitHub language count](https://img.shields.io/github/languages/count/justsuperlemon/python-keylogger)
+This script is only for education purpose, do not use it for illegal things.
 
 **To execute this script:**
 
